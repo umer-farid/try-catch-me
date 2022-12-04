@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Umer-Farid
-- 👀 I’m interested to learn cyber security and exploitations!
-- 🌱 I’m currently learning cryptography Algorithms!
-- 💞️ I’m looking to collaborate on development for linux...
+- 👋 Hi, I’m @Umer-Farid. A Django Full Stack Developer!
+- 👀 I’m also interested to learn cyber security and exploitations!
+- 💞️ I’m looking to collaborate on development in Python...
 - 
 - 
 
